@@ -1,5 +1,5 @@
 /* =========================================
-   Lucas Moraes — Bartender Premium
+   Angelo Barbosa — Bartender Premium
    Dark · Glassmorphism · Gold · Wine · Neon
    ========================================= */
 
@@ -634,3 +634,5 @@ p { color: var(--text-dim); }
   .gallery { grid-template-columns: 1fr; }
   .footer-cols { grid-template-columns: 1fr 1fr; }
 }
+
+
