@@ -1,4 +1,4 @@
-# Lucas Moraes — Bartender & Garçom Profissional
+# Lucas Ferreira — Bartender & Garçom Profissional
 
 Landing page premium, dark mode, com efeitos glassmorphism, animações suaves e design responsivo.
 
@@ -51,4 +51,4 @@ bartender-site/
 Layout otimizado para desktop, tablet e mobile com menu hamburguer.
 
 ---
-© Lucas Moraes — feito com ♥ e gelo bem batido.
+© Lucas Ferreira — feito com ♥ e gelo bem batido.
