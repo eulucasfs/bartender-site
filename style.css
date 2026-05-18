@@ -407,7 +407,7 @@ p { color: var(--text-dim); }
 .g-item {
   position: relative;
   overflow: hidden;
-  border-radius: var(--radius);
+  border-radius: 20px;
   border: 1px solid var(--border);
   aspect-ratio: 1;
   cursor: pointer;
@@ -418,7 +418,7 @@ p { color: var(--text-dim); }
   filter: brightness(0.85);
 }
 .g-item figcaption {
-  position: absolute; left: 20px; bottom: 18px;
+  position: absolute; left: 10px; bottom: 18px;
   font-family: var(--font-display);
   font-size: 1.2rem;
   color: #fff;
