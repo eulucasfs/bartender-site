@@ -249,10 +249,7 @@ p { color: var(--text-dim); }
   max-width: 640px;
   margin: 0 auto 40px;
 }
-.hero-actions {
-  display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;
-  margin-bottom: 80px;
-}
+
 .hero-stats {
   display: flex; gap: 48px; justify-content: center; flex-wrap: wrap;
   padding-top: 40px;
@@ -473,7 +470,10 @@ p { color: var(--text-dim); }
 }
 
 /* ============ CONTACT ============ */
-.contact-grid { align-items: start; }
+.contact-grid { align-items: start; display: flex;
+justify-content: center;
+text-align: center;}
+
 .contact-list {
   list-style: none; margin: 28px 0;
   display: flex; flex-direction: column; gap: 14px;
@@ -590,9 +590,7 @@ p { color: var(--text-dim); }
   font-size: 0.8rem;
   color: var(--text-muted);
 }
-.footer-bottom .container {
-  display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;
-}
+
 
 /* ============ REVEAL ANIMATION ============ */
 .reveal {
